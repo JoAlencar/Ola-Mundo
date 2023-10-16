@@ -1,2 +1,4 @@
-# Ola Mundo
- Primeiro rep. vers. curso em video
+# Olá, Mundo!
+Primeiro repos. vers. curso em video
+
+Repositorio criado durante curso em video do Guanabara!
