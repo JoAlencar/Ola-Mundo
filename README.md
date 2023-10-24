@@ -1,5 +1,5 @@
 # Olá, Mundo!
-Primeiro repos. vers. curso em video
+Primeiro repositório de versionamento do curso em video.
 
 Repositorio criado durante curso em video do Guanabara!
 
